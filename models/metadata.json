@@ -1,0 +1,63 @@
+{
+  "dataset_rows": 3245,
+  "project_types": [
+    "Bridge",
+    "Building",
+    "Power Plant",
+    "Road",
+    "Water Infra"
+  ],
+  "project_names": [
+    "Dam Reinforcement",
+    "Highway Expansion",
+    "Industrial Complex",
+    "Smart Solar Grid",
+    "Urban Flyover"
+  ],
+  "feasibility_labels": [
+    "Borderline",
+    "Feasible",
+    "Not Feasible"
+  ],
+  "scope_complexities": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "time_min": 120,
+  "time_max": 599,
+  "cost_metrics": {
+    "mae_usd": 1626453.2542372881,
+    "rmse_usd": 1936704.5679994554,
+    "r2": -0.224011281031538
+  },
+  "complexity_accuracy": 0.3389830508474576,
+  "cost_features": [
+    "Project_Type",
+    "Project_Name",
+    "Scope_Complexity",
+    "Feasibility_Label",
+    "Resource_Allocation_Score",
+    "Risk_Assessment_Score",
+    "Environmental_Impact_Score",
+    "Historical_Cost_Deviation_%",
+    "Stakeholder_Priority_Score",
+    "Time_Estimate_Days"
+  ],
+  "complexity_features": [
+    "Project_Type",
+    "Project_Name",
+    "Feasibility_Label",
+    "Resource_Allocation_Score",
+    "Risk_Assessment_Score",
+    "Environmental_Impact_Score",
+    "Historical_Cost_Deviation_%",
+    "Stakeholder_Priority_Score",
+    "Time_Estimate_Days"
+  ],
+  "complexity_classes": [
+    "High",
+    "Low",
+    "Medium"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "dataset_rows": 3245,
+  "columns": [
+    "Project_ID",
+    "Project_Name",
+    "Project_Type",
+    "Scope_Complexity",
+    "Estimated_Cost_USD",
+    "Resource_Allocation_Score",
+    "Risk_Assessment_Score",
+    "Environmental_Impact_Score",
+    "Historical_Cost_Deviation_%",
+    "Stakeholder_Priority_Score",
+    "Time_Estimate_Days",
+    "Feasibility_Label",
+    "Scope_Complexity_Numeric"
+  ]
+}
